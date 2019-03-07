@@ -11,3 +11,4 @@ AI Lab questions with my solutions for some specific questions
 > Support Vector Machine (SVM)<br/>
 > Gradient Descent<br/>
 > Linear and Logistic regression<br/>
+> Search problems: Astar, BFS, DFS<br/>
