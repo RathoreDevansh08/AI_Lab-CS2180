@@ -12,3 +12,5 @@ AI Lab questions with my solutions for some specific questions
 > Gradient Descent<br/>
 > Linear and Logistic regression<br/>
 > Search problems: Astar, BFS, DFS<br/>
+> Stochastic/Deterministic control problems<br/>
+> Markov Decision Process(MDP)<br/>
