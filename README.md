@@ -14,3 +14,4 @@ AI Lab questions with my solutions for some specific questions
 > Search problems: Astar, BFS, DFS<br/>
 > Stochastic/Deterministic control problems<br/>
 > Markov Decision Process(MDP)<br/>
+> Bellman_Operator & Value_Iteration<br/>
