@@ -17,4 +17,4 @@ AI Lab questions with my solutions for some specific questions
 > Bellman_Operator & Value_Iteration<br/>
 > Q-Learning<br/>
 > Cricket Score Problem<br/>
-> Mountain Car<br/>
+> Mountain Car Problem<br/>
