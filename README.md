@@ -15,3 +15,6 @@ AI Lab questions with my solutions for some specific questions
 > Stochastic/Deterministic control problems<br/>
 > Markov Decision Process(MDP)<br/>
 > Bellman_Operator & Value_Iteration<br/>
+> Q-Learning<br/>
+> Cricket Score Problem<br/>
+> Mountain Car<br/>
