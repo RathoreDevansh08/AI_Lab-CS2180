@@ -2,6 +2,7 @@
 AI Lab questions with my solutions for some specific questions
 <br/>
 ![](bot.gif)
+Credits: DSR
 <br/>
 ## Some important Algorithms/topics covered:<br/>
 > Random search based basic puzzles(eg. Room Cleaning Bot)<br/>
